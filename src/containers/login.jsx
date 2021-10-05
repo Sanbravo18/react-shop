@@ -4,7 +4,7 @@ const login = () => {
     return (
         <div className="login">
     <div className="form-container">
-      <img src="./logos/logo_yard_sale.svg" alt="logo" className="logo">
+      <img src="./logos/logo_yard_sale.svg" alt="logo" className="logo"/>
 
       <h1 className="title">Create a new password</h1>
       <p className="subtitle">Enter a new passwrd for yue account</p>
@@ -16,7 +16,7 @@ const login = () => {
         <label for="new-password" className="label">Password</label>
         <input type="password" id="new-password" placeholder="*********" className="input input-password"/>
 
-        <input type="submit" value="Confirm" className="primary-button login-button">
+        <input type="submit" value="Confirm" className="primary-button login-button"/>
       </form>
     </div>
   </div>
