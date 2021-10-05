@@ -1,0 +1,26 @@
+{
+  "name": "react-shop",
+  "version": "1.0.0",
+  "description": "ecommerce ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanbravo18/react-shop.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Daniel Bravo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sanbravo18/react-shop/issues"
+  },
+  "homepage": "https://github.com/Sanbravo18/react-shop#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
